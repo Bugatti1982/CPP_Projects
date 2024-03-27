@@ -18,4 +18,5 @@ These scripts include code to form local tables and queries. They utilize a rang
 
 What are the requirements? How do I run it?
 -------------------------------------------
-I'm currently running these scripts using Visual Studio 2022. Simply download the project of choice by chosing the solution fi
+I'm currently running these scripts using Visual Studio 2022. Simply download the project of choice by chosing the solution file to open the entire project.
+This will include everything including headers and source files.
