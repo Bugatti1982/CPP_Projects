@@ -8,9 +8,9 @@ DISCLAIMER:
 This is only for educational purposes to showcase what concepts I have learned.
 This should not be used for usage of answers on tests nor should it be used for work that someone else has not done.
 
-What are these projects? How did it get made?
----------------------------------------------
-These are currently projects that I am developing from a C++ course that is still in progress. These bring on great examples of problem solving and utilizing information effectively. Eventually, these concepts will be used to develop my own custom game engine using OpenGL as the API renderer of choice.
+What are these projects? How did it get made? What will these be used for?
+--------------------------------------------------------------------------
+These are currently projects that I am developing from a C++ course that is still in progress. These bring on great examples of problem solving and utilizing information effectively. Eventually, these concepts will be used to develop my own custom game engine using OpenGL as the API renderer of choice. Right now this is used to refresh my memory of C++ before moving on to advanced topics.
 
 How does it work?
 -----------------
