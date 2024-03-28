@@ -126,14 +126,20 @@ public:
 };
 
 
+
+
+
 class entity3
 {
 public:
 	virtual std::string getname()
-	//From what I can gather, a virtual function essentially
 	{
 		return "entity3";
-	}
+	};
+
+	//From what I can gather, a virtual function essentially a way of letting the computer choose which class to execute based on what data type of the object inside
+	//If the data types are the same for both, the one that is marked virtual will be the one that's excluded and runs the other class('s) instead
+	//Can impact perfomance in memory
 };
 
 class player2 : public entity3
@@ -241,11 +247,11 @@ int main()
 	player1.x = 2;
 
 
+
 	entity3* e = new entity3();
-	std::cout << e->getname() << std::endl;
+	printname(e);
 
 	player2* p = new player2("Bababooey");
-	std::cout << p->getname() << std::endl;
 	printname(p);
 
 	std::cin.get();
