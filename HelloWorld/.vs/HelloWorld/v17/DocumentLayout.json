@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\welch\\Desktop\\Important Programming Projects\\C Plus Plus\\CPP Projects\\CPP_Projects\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{422A0B31-1E51-4608-855C-70CFB181588A}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\welch\\Desktop\\Important Programming Projects\\C Plus Plus\\CPP Projects\\CPP_Projects\\HelloWorld\\HelloWorld\\Math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{422A0B31-1E51-4608-855C-70CFB181588A}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\Math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422A0B31-1E51-4608-855C-70CFB181588A}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\welch\\Desktop\\Important Programming Projects\\C Plus Plus\\CPP Projects\\CPP_Projects\\HelloWorld\\HelloWorld\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{422A0B31-1E51-4608-855C-70CFB181588A}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{422A0B31-1E51-4608-855C-70CFB181588A}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\welch\\Desktop\\Important Programming Projects\\C Plus Plus\\CPP Projects\\CPP_Projects\\HelloWorld\\HelloWorld\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{422A0B31-1E51-4608-855C-70CFB181588A}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Math.cpp",
+              "DocumentMoniker": "C:\\Users\\welch\\Desktop\\Important Programming Projects\\C Plus Plus\\CPP Projects\\CPP_Projects\\HelloWorld\\HelloWorld\\Math.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\Math.cpp",
+              "ToolTip": "C:\\Users\\welch\\Desktop\\Important Programming Projects\\C Plus Plus\\CPP Projects\\CPP_Projects\\HelloWorld\\HelloWorld\\Math.cpp",
+              "RelativeToolTip": "HelloWorld\\Math.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T10:05:24.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Log.cpp",
+              "DocumentMoniker": "C:\\Users\\welch\\Desktop\\Important Programming Projects\\C Plus Plus\\CPP Projects\\CPP_Projects\\HelloWorld\\HelloWorld\\Log.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\Log.cpp",
+              "ToolTip": "C:\\Users\\welch\\Desktop\\Important Programming Projects\\C Plus Plus\\CPP Projects\\CPP_Projects\\HelloWorld\\HelloWorld\\Log.cpp",
+              "RelativeToolTip": "HelloWorld\\Log.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T10:05:24.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\welch\\Desktop\\Important Programming Projects\\C Plus Plus\\CPP Projects\\CPP_Projects\\HelloWorld\\HelloWorld\\Main.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\Main.cpp",
+              "ToolTip": "C:\\Users\\welch\\Desktop\\Important Programming Projects\\C Plus Plus\\CPP Projects\\CPP_Projects\\HelloWorld\\HelloWorld\\Main.cpp",
+              "RelativeToolTip": "HelloWorld\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T10:05:24.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

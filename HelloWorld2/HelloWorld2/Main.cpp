@@ -77,7 +77,7 @@ int main()
 
 	for (int i = 0; i < 5; i++)
 	{
-		log("bababooey XD");
+		log("This is a print");
 	}
 
 	
@@ -89,7 +89,7 @@ int main()
 	bool condition = true;
 	for (; condition; )
 	{
-		log("bababooey :P");
+		log("Loging is fun");
 		h++;
 		if (!(h < 5))
 			condition = false;
@@ -100,7 +100,7 @@ int main()
 	int i = 0;
 	while (i < 5)
 	{
-		log("bababooey ;D");
+		log("Here's another message");
 		i++;
 	}
 
@@ -112,7 +112,7 @@ int main()
 
 	do
 	{
-		log("bababooey >:(");
+		log("Hey back again");
 	} while (i < 5);
 
 	// Essentially a do while loop regardless on whether the condition is true or not will only pass through once.
@@ -122,7 +122,7 @@ int main()
 	{
 		if (i % 2 == 0)
 			continue;
-		log("bababooey ;)");
+		log("Loops are fun");
 		std::cout << i << std::endl;
 	}
 
@@ -134,7 +134,7 @@ int main()
 	{
 		if ((i + 1) % 2 == 0)
 			continue;
-		log("bababooey :O");
+		log("Press A to continue");
 		std::cout << i << std::endl;
 	}
 
@@ -144,7 +144,7 @@ int main()
 	{
 		if ((i + 1) % 2 == 0)
 			break;
-		log("bababooey ;P");
+		log("Press X to pay respects");
 		std::cout << i << std::endl;
 	}
 

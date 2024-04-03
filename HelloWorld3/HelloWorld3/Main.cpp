@@ -228,8 +228,8 @@ int main()
 	//This statment filters info from ever being called because it is set to private
 	//If you remove this statement and call info, it gets printed
 	logmessage.warn("You got warning");
-	logmessage.info("Yo dudes");
-	logmessage.error("The Empire's pretty chill");
+	logmessage.info("Here's some info");
+	logmessage.error("Error! Something went wrong!");
 
 	function();
 	//This function essentially prints both the constructor and destructor along with the x and y variables
@@ -251,7 +251,7 @@ int main()
 	entity3* e = new entity3();
 	printname(e);
 
-	player2* p = new player2("Bababooey");
+	player2* p = new player2("Florf");
 	printname(p);
 
 	std::cin.get();
